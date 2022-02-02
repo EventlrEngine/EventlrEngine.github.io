@@ -1,0 +1,7 @@
+Eventlr.jpg filter=lfs diff=lfs merge=lfs -text
+Eventlr[[:space:]]new.png filter=lfs diff=lfs merge=lfs -text
+favicon.png filter=lfs diff=lfs merge=lfs -text
+logotype.png filter=lfs diff=lfs merge=lfs -text
+new-eth.png filter=lfs diff=lfs merge=lfs -text
+new-js.png filter=lfs diff=lfs merge=lfs -text
+new-sh.png filter=lfs diff=lfs merge=lfs -text
